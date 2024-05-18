@@ -1,0 +1,9 @@
+# edited by rozukke to change naming and descriptions
+
+author: Zhuowei + Artemis
+database: false
+description: Implementation of a more generalized Minecraft PI API.
+main: net.rozukke.elci.ELCIPlugin
+name: ELCI
+startup: postworld
+version: '1.12.1'
