@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11232751&assignment_repo_type=AssignmentRepo)
 # Minecraft Secure API
-This is an implementation with a team of 3 for the Minecraft Generative Project to see if we could securely encrypt the messages when sent from the API to Minecraft. 
+This is an implementation with a team of 3 for the Minecraft Random Village Generator Project to see if we could securely encrypt the messages when sent from the API to Minecraft. 
 
 https://docs.google.com/document/d/1QC6-hrXeQ6aUv4C5SY2KSTm1pUbmmvNYxUw9z3_gKPY/edit?usp=sharing
 
